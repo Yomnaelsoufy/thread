@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605626184 source:/home/ubuntu/Desktop/Projects/thread/main.c
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<unistd.h>
+
